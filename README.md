@@ -3,7 +3,7 @@ Este proyecto fue elaborado durante mi último curso de la carrera de pregrado '
 
 Video de la Ley de Malus:
 
-https://github.com/luischanquettih/Laboratorios-Remotos/assets/99174520/c8d4b799-e573-412e-aa90-04c192cc968e
+https://github.com/luischanquettih/Laboratorios-Remotos/assets/99174520/c13cc5c2-a9db-498e-8363-030f16616918
 
 Fotografía del Experimento Remoto de la Ley de Malus:
 
