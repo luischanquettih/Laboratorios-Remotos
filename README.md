@@ -1,6 +1,10 @@
 # Laboratorios-Remotos
 Este proyecto fue elaborado durante mi último curso de la carrera de pregrado 'Técnicas Físicas para la Industria', en el cual consiste en diseñar e implementar laboratorios remotos de la Ley de Malus y la Ley de Hooke.
 
+Video de la Ley de Malus:
+
+https://github.com/luischanquettih/Laboratorios-Remotos/assets/99174520/c8d4b799-e573-412e-aa90-04c192cc968e
+
 Fotografía del Experimento Remoto de la Ley de Malus:
 
 ![malus](https://github.com/luischanquettih/Laboratorios-Remotos/assets/99174520/e1a6ea75-6dc5-4b66-9f14-4018219ff896)
@@ -25,4 +29,7 @@ Captura del sitio web de la Ley de Malus:
 Captura del sitio web de la Ley de Hooke:
 
 ![web_hooke](https://github.com/luischanquettih/Laboratorios-Remotos/assets/99174520/2497f2b9-7b10-4f09-a300-ba0163021ab4)
+
+
+
 
